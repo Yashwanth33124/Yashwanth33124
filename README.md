@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋
 
+## I'm Yashwanth Kumar Cheruvu 🎓
+**Student | Aspiring Frontend Developer | Problem Solver**
 
-**Yashwanth33124/Yashwanth33124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi, I'm Yashwanth Kumar Cheruvu 👋 🎓 **Student | Aspiring Frontend Developer | Problem Solver** --- ## 🚀 About Me Hello! I'm Yashwanth, a passionate student with a love for building dynamic and interactive user interfaces. I'm on a journey to master web development, enhance my problem-solving skills, and turn creative ideas into real-world projects.   --- ## 🛠️ Skills & Learning - **Languages:** HTML, CSS, JavaScript, C, C++ - **Frameworks:** Currently learning React - **Special Focus:** DSA (Data Structures & Algorithms) in C++ - **Interests:** Building modern UIs, writing clean code, experimenting with new tech --- ## 🌟 Featured Projects - [**Todo-App-**](https://github.com/Yashwanth33124/Todo-App-) — My favorite project! A practical To-Do app built to sharpen my frontend skills. - [**js-progamize**](https://github.com/Yashwanth33124/js-progamize) — My JavaScript learning & problem-solving repository. - [**DSA**](https://github.com/Yashwanth33124/DSA) — Documenting my journey through Data Structures & Algorithms. --- ## 💡 Other Interests - 🎮 Playing games to unwind and spark creativity - 👨‍🍳 Cooking — because building great projects and great food both require passion! - ✨ Always curious to build better, more dynamic user interfaces --- ## 📫 Connect with Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-kumar-cheruvu-7843a836b/) --- > “Code. Create. Repeat. Every problem is an opportunity to learn!” Thanks for visiting my profile! 🚀
-Here are some ideas to get you started:
+I'm a passionate student with a love for building dynamic and interactive user interfaces. I'm on a journey to master web development, enhance my problem-solving skills, and turn creative ideas into real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🛠️ Skills & Learning
+- **Languages:** HTML, CSS, JavaScript, C, C++  
+- **Frameworks:** Currently learning React  
+- **Special Focus:**  Currently learning DSA (Data Structures & Algorithms) in C++  
+- **Interests:** Building modern UIs, writing clean code, experimenting with new tech  
+
+---
+
+## 🌟 Featured Projects
+- **[Todo-App](#)** — My favorite project! A practical To-Do app built to sharpen my frontend skills.
+
+- 🧠 Problem-Solving Repositories
+- **[js-progamize](#)** — My JavaScript learning & problem-solving repository.  
+- **[DSA](#)** — Documenting my journey through Data Structures & Algorithms.  
+
+---
+
+## 💡 Other Interests
+- 🎮 Playing games to unwind and spark creativity  
+- 👨‍🍳 Cooking — because building great projects and great food both require passion!  
+- ✨ Always curious to build better, more dynamic user interfaces  
+
+---
+
+## 📫 Connect with Me
+- **Email:** [cheruvuyashwanth99@gmail.com](mailto:cheruvuyashwanth99@gmail.com)  
+- **LinkedIn:** [Yashwanth Kumar Cheruvu](https://www.linkedin.com/in/yashwanth-kumar-cheruvu-7843a836b/)  
+
+---
+
+> “Code. Create. Repeat. Every problem is an opportunity to learn!” 🚀
 
