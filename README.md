@@ -15,12 +15,21 @@ I'm a passionate student with a love for building dynamic and interactive user i
 
 ---
 
-## 🌟 Featured Projects
-- **[Todo-App](#)** — My favorite project! A practical To-Do app built to sharpen my frontend skills.
+🌟 Featured Projects
 
-- 🧠 Problem-Solving Repositories
-- **[js-progamize](#)** — My JavaScript learning & problem-solving repository.  
-- **[DSA](#)** — Documenting my journey through Data Structures & Algorithms.  
+React Shopping Cart
+ 🛒 — A small e-commerce app built with React, Tailwind CSS, and Context API. Browse products, view details, add to cart, and manage quantities — just like a real online store.
+
+Todo-App
+ — My favorite project! A practical To-Do app built to sharpen my frontend skills.
+
+🧠 Problem-Solving Repositories
+
+js-programize
+ — My JavaScript learning & problem-solving repository.
+
+DSA
+ — Documenting my journey through Data Structures & Algorithms.
 
 ---
 
