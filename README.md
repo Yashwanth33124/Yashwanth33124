@@ -42,7 +42,12 @@ DSA
 
 ## 📫 Connect with Me
 - **Email:** [cheruvuyashwanth99@gmail.com](mailto:cheruvuyashwanth99@gmail.com)  
-- **LinkedIn:** [Yashwanth Kumar Cheruvu](https://www.linkedin.com/in/yashwanth-kumar-cheruvu-7843a836b/)  
+- **LinkedIn:** [Yashwanth Kumar Cheruvu](https://www.linkedin.com/in/yashwanth-kumar-cheruvu-7843a836b/)
+
+- ## 📊 GitHub Stats
+![Yashwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheruvuyashwanth&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheruvuyashwanth&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=cheruvuyashwanth&theme=radical)
 
 ---
 
