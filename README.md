@@ -34,9 +34,11 @@ DSA
 ---
 
 ## 💡 Other Interests
-- 🎮 Playing games to unwind and spark creativity  
-- 👨‍🍳 Cooking — because building great projects and great food both require passion!  
-- ✨ Always curious to build better, more dynamic user interfaces  
+- 🎮 I enjoy playing games — they help me relax and often spark new creative ideas.  
+- 👨‍🍳 Cooking is something I love; just like coding, it’s all about experimenting and creating something meaningful.  
+- 📸 I like capturing dynamic moments through photography, as it gives me a fresh perspective on things.  
+- ✨ I’m always curious about exploring new ways to design cleaner and more dynamic user interfaces.  
+
 
 ---
 
