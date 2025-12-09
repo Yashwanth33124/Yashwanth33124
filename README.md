@@ -8,8 +8,8 @@ I'm a passionate student with a love for building dynamic and interactive user i
 ---
 
 ## 🛠️ Skills & Learning
-- **Languages:** HTML, CSS, JavaScript, C
-- **Frameworks:** Currently learning React  
+- **Languages:** JavaScript,C
+- **Frameworks:** React,tailwind Css
 - **Special Focus:**  Currently learning DSA (Data Structures & Algorithms) in JavaScript  
 - **Interests:** Building modern UIs, writing clean code, experimenting with new tech  
 
