@@ -1,67 +1,104 @@
-<h1 align="center">Hi 👋, I'm Yashwanth Kumar Cheruvu</h1>
-<h3 align="center">🚀 MERN Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Yashwanth Kumar</h1>
+<h3 align="center">🚀 MERN Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;MongoDB+Express+React+Node.js;Full+Stack+Web+Application+Builder;DSA+Learner;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;MongoDB+Express+React+Node.js;Full+Stack+Web+Application+Builder;DSA+Learner" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍🎓 About Me
 
-- 🎓 B.Tech 3rd Year Student  
+- 🎓 B.Tech 3rd Year (2nd Semester) / Pre-Final Year  
+- 🏫 Computer Science & Engineering  
+- 🤖 Specialization in Artificial Intelligence (Computational Intelligence)  
 - 💻 Passionate about Full Stack Web Development  
-- 🚀 Currently focusing on the **MERN Stack**  
-- 📚 Learning Data Structures & Algorithms  
-- 🎯 Goal: Become a Professional Full Stack Developer  
+- 📚 Actively practicing Data Structures & Algorithms  
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Languages
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=blue)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node-20232A?style=for-the-badge&logo=node.js&logoColor=green)
-![Express.js](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
+---
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=green)
+## 🚀 Frontend Development
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=orange)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Responsive-Design-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔧 State Management & Build Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
 ## 🌟 Featured Project
 
-### 🛒 Shopping Application
+### 🛒 Shopping Application  
 A Full Stack E-commerce Application built with React & modern UI design.  
-🔗 Live Demo: https://yashwanth33124.github.io/Shopping-Application/
+🔗 Live Demo:  
+https://yashwanth33124.github.io/Shopping-Application/
 
 ---
 
-## 📊 GitHub Stats
+## 📦 Mini Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth33124&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth33124&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/yashwanth-kumar-cheruvu-7843a836b)
-[![Gmail](https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=red)](mailto:cheruvuyashwanth99@gmail.com)
+- Product Listing Through API  
+- Blog App  
+- Todo App  
 
 ---
 
-⭐ From Yashwanth Kumar Cheruvu
+## 🧠 Problem Solving Repositories
+
+- JS - DSA  
+- LeetCode  
+- js-programize  
+
+---
+
+⭐ From Yashwanth Kumar
