@@ -1,53 +1,67 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Yashwanth Kumar Cheruvu</h1>
+<h3 align="center">🚀 MERN Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
-## I'm Yashwanth Kumar Cheruvu 🎓
-**Student | Aspiring Frontend Developer | Problem Solver**
-
-I'm a passionate student with a love for building dynamic and interactive user interfaces. I'm on a journey to master web development, enhance my problem-solving skills, and turn creative ideas into real-world projects.
-
----
-
-## 🛠️ Skills & Learning
-- **Languages:** JavaScript,C
-- **Frameworks:** React,tailwind Css
-- **Special Focus:**  Currently learning DSA (Data Structures & Algorithms) in JavaScript  
-- **Interests:** Building modern UIs, writing clean code, experimenting with new tech  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;MongoDB+Express+React+Node.js;Full+Stack+Web+Application+Builder;DSA+Learner;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-🌟 Featured Projects
+## 👨‍💻 About Me
 
-React Shopping Cart
- 🛒 — A small e-commerce app built with React, Tailwind CSS, and Context API. Browse products, view details, add to cart, and manage quantities — just like a real online store.
-
-Todo-App
- — My favorite project! A practical To-Do app built to sharpen my frontend skills.
-
-🧠 Problem-Solving Repositories
-
-js-programize
- — My JavaScript learning & problem-solving repository.
-
-DSA
- — Documenting my journey through Data Structures & Algorithms.
+- 🎓 B.Tech 3rd Year Student  
+- 💻 Passionate about Full Stack Web Development  
+- 🚀 Currently focusing on the **MERN Stack**  
+- 📚 Learning Data Structures & Algorithms  
+- 🎯 Goal: Become a Professional Full Stack Developer  
 
 ---
 
-## 💡 Other Interests
-- 🎮 I enjoy playing games — they help me relax and often spark new creative ideas.  
-- 👨‍🍳 Cooking is something I love; just like coding, it’s all about experimenting and creating something meaningful.  
-- 📸 I like capturing dynamic moments through photography, as it gives me a fresh perspective on things.  
-- ✨ I’m always curious about exploring new ways to design cleaner and more dynamic user interfaces.  
+## 🛠️ Tech Stack
 
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=blue)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node-20232A?style=for-the-badge&logo=node.js&logoColor=green)
+![Express.js](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=green)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 
 ---
 
-## 📫 Connect with Me
-- **Email:** [cheruvuyashwanth99@gmail.com](mailto:cheruvuyashwanth99@gmail.com)  
-- **LinkedIn:** [Yashwanth Kumar Cheruvu](https://www.linkedin.com/in/yashwanth-kumar-cheruvu-7843a836b/)
+## 🌟 Featured Project
 
+### 🛒 Shopping Application
+A Full Stack E-commerce Application built with React & modern UI design.  
+🔗 Live Demo: https://yashwanth33124.github.io/Shopping-Application/
 
 ---
 
-> “Code. Create. Repeat. Every problem is an opportunity to learn!” 🚀
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth33124&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth33124&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/yashwanth-kumar-cheruvu-7843a836b)
+[![Gmail](https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=red)](mailto:cheruvuyashwanth99@gmail.com)
+
+---
+
+⭐ From Yashwanth Kumar Cheruvu
