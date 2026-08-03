@@ -9,7 +9,7 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 B.Tech 3rd Year (2nd Semester) / Pre-Final Year  
+- 🎓 B.Tech Final year Student 
 - 🏫 Computer Science & Engineering  
 - 🤖 Specialization in Artificial Intelligence (Computational Intelligence)  
 - 💻 Passionate about Full Stack Web Development  
